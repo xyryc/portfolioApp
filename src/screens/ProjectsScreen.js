@@ -12,10 +12,24 @@ const projectsData = [
   },
   {
     id: "2",
+    title: "React Native Portfolio App",
+    description:
+      "A mobile application built with React Native for developers to showcase their projects and contact information.",
+    technologies: "React Native, Expo, React Navigation",
+  },
+  {
+    id: "3",
     title: "PHP Web-based Chat App",
     description:
       "A real-time web-based chat application implemented with PHP, JavaScript, MySQL and AJAX for seamless communication and instant messaging.",
     technologies: "PHP, MySQL, AJAX, JavaScript",
+  },
+  {
+    id: "4",
+    title: "UMS: A Web-Based University Management Tool",
+    description:
+      "A web-based University Management System project with basic CRUD features for managing student profiles and grades.",
+    technologies: "PHP, MySQL, JavaScript",
   },
 ];
 

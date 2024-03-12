@@ -1,4 +1,3 @@
-// screens/SkillsScreen.js
 import React from "react";
 import { View, Text, FlatList, StyleSheet } from "react-native";
 import SkillBadge from "../../components/SkillBadge";
@@ -6,11 +5,14 @@ import SkillBadge from "../../components/SkillBadge";
 const skillsData = [
   "React Native",
   "JavaScript",
-  "Redux",
-  "Firebase",
-  "REST APIs",
+  // "Redux",
+  // "Firebase",
+  // "REST APIs",
   "Git",
   "UI/UX Design",
+  "Python",
+  "AI/ML",
+  "MySQL",
 ];
 
 const SkillsScreen = () => {
@@ -20,7 +22,7 @@ const SkillsScreen = () => {
       <FlatList
         data={skillsData}
         keyExtractor={(item) => item}
-        horizontal
+        //horizontal
         renderItem={({ item }) => <SkillBadge skill={item} />}
       />
     </View>
