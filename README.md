@@ -3,7 +3,7 @@
 
 ## Overview
 
-Portfol.io, a React Native portfolio app that allows app developers to showcase their projects and contact information in a mobile application format. It includes screens for displaying a list of projects, skills and contact information.
+Portfol.io is a React Native portfolio app tailored for app developers, enabling them to showcase projects and contact details in a mobile-friendly format. With dedicated screens for project listings, skill showcases, and contact information, it offers a comprehensive platform for professionals to exhibit their work and expertise.
 
 ## Features
 
