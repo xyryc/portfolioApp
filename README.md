@@ -1,9 +1,9 @@
-# Portfolio App
+# Portfol.io
 <img src="./screenshots/2.jpg" width="500" alt="Screenshot 1">
 
 ## Overview
 
-This React Native portfolio app allows app developers to showcase their projects and contact information in a mobile application format. It includes screens for displaying a list of projects, skills and contact information.
+Portfol.io, a React Native portfolio app that allows app developers to showcase their projects and contact information in a mobile application format. It includes screens for displaying a list of projects, skills and contact information.
 
 ## Features
 
